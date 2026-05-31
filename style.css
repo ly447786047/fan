@@ -17,6 +17,7 @@ body {
     position: relative;
     width: 420px;
     height: 520px;
+    margin: 0 20px;
 }
 
 /* 底座支架 - 引用图片 */
