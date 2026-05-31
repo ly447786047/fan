@@ -10,8 +10,6 @@ body {
     align-items: center;
     min-height: 100vh;
     background-color: #f5f5f5;
-    margin: 0 20px;
-    padding: 0 20px;
 }
 
 /* 风扇整体容器 */
@@ -19,8 +17,6 @@ body {
     position: relative;
     width: 420px;
     height: 520px;
-    margin: 0 20px;
-    padding: 0 20px;
 }
 
 /* 底座支架 - 引用图片 */
